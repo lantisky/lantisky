@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+welcome to the very first project, this project will contain many many stuffs that I may not recognize. 
 <!--
 **lantisky/lantisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
