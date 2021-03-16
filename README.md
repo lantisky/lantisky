@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 Hello, this is Sky, a man who interesting on Programming, Network Engineering and Automated Testing. <br>
-🌱 I’m currently learning Angular and Ngrx; <br>
+🌱 I’m currently earning more experience on Angular and Ngrx; <br>
 📫 How to reach me: send me email to lantislexc@gmail.com;<br>
-💬 Interesting on different type of video games such RDR2, FF series, Nier, Pokemon, and MH series...<br>
-🤔 Currently seeking more project to earn experiment of my progamming skills. <br>
+💬 After hours interesting on different type of video games such RDR2, FF series, Nier, Pokemon, and MH series...<br>
+🤔 Currently seeking a proper front end developer role or contribute more voluntee project <br>
 <!--
 **lantisky/lantisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
