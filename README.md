@@ -3,7 +3,7 @@
 Hello, this is Sky, a man who interesting on Programming, Network Engineering and Automated Testing. <br>
 🌱 I’m currently earning more experience in Angular Framework; <br>
 📫 Send me email to lantislexc@gmail.com if you interested me;<br>
-💬 Tailwindcss and bootstrap are crazy, build-in support in angular 12, on man;<br>
+💬 Tailwindcss and bootstrap are crazy, build-in support in angular 12;<br>
 🤔 Currently seeking a proper front end developer role or contribute more voluntee project; <br>
 <!--
 **lantisky/lantisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
