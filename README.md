@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Hello, this is Sky, a man who interesting on Programming, Network Engineering and Automated Testing. <br>
-🌱 I’m currently earning more experience in Angular Framework; <br>
-📫 Send me email to lantislexc@gmail.com if you interested me;<br>
-💬 Tailwindcss and bootstrap are crazy, build-in support in angular 12;<br>
-🤔 Currently seeking a proper front end developer role or contribute more voluntee project; <br>
+Hi there, This person is interested in Networking/Info Security, Automated Testing, and a little bit of Programming. <br>
+🌱Keep front-end developing as a habit; <br>
+📫 Work and maintenance PHP front end;<br>
+💬 Maybe one day gonna learn Kotlin and join ASOP for more custom ROM development, Maybe...<br>
 <!--
 **lantisky/lantisky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
